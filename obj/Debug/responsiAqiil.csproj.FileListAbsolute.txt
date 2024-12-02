@@ -1,0 +1,7 @@
+C:\Users\Muhammad Aqiil F\Documents\responsi\responsiAqiil\obj\Debug\responsiAqiil.csproj.AssemblyReference.cache
+C:\Users\Muhammad Aqiil F\Documents\responsi\responsiAqiil\obj\Debug\responsiAqiil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammad Aqiil F\Documents\responsi\responsiAqiil\obj\Debug\responsiAqiil.exe.config
+C:\Users\Muhammad Aqiil F\Documents\responsi\responsiAqiil\obj\Debug\responsiAqiil.Form1.resources
+C:\Users\Muhammad Aqiil F\Documents\responsi\responsiAqiil\obj\Debug\responsiAqiil.Properties.Resources.resources
+C:\Users\Muhammad Aqiil F\Documents\responsi\responsiAqiil\obj\Debug\responsiAqiil.csproj.GenerateResource.cache
+C:\Users\Muhammad Aqiil F\Documents\responsi\responsiAqiil\obj\Debug\responsiAqiil.csproj.CoreCompileInputs.cache
